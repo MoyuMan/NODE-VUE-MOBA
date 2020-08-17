@@ -6,11 +6,39 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "174672",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
       "icon_id": "372210",
       "name": "cc-menu-circle",
       "font_class": "cc-menu-circle",
       "unicode": "e672",
       "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "612557",
+      "name": "image",
+      "font_class": "image",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "3469684",
+      "name": "团战normal",
+      "font_class": "tuanzhannormal",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "4910082",
+      "name": "link",
+      "font_class": "link",
+      "unicode": "e716",
+      "unicode_decimal": 59158
     },
     {
       "icon_id": "6654507",
@@ -25,6 +53,41 @@
       "font_class": "menu",
       "unicode": "e606",
       "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "8849030",
+      "name": "剑",
+      "font_class": "jian",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "10836583",
+      "name": "剑",
+      "font_class": "jian1",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "11367835",
+      "name": "larkcloud_play",
+      "font_class": "ic_play",
+      "unicode": "e787",
+      "unicode_decimal": 59271
+    },
+    {
+      "icon_id": "12346658",
+      "name": "To the right",
+      "font_class": "Totheright",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13583484",
+      "name": "装备 (1)",
+      "font_class": "zhuangbei",
+      "unicode": "e58e",
+      "unicode_decimal": 58766
     }
   ]
 }
